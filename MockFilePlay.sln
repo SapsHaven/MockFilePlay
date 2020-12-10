@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockFilePlay", "MockFilePlay\MockFilePlay.csproj", "{3D6A5509-2F06-4DA9-86C1-A9E34874B7A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockFilePlayTests", "MockFilePlayTests\MockFilePlayTests.csproj", "{35532530-8AD5-45EC-AF50-2137C44BF1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6A5509-2F06-4DA9-86C1-A9E34874B7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6A5509-2F06-4DA9-86C1-A9E34874B7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6A5509-2F06-4DA9-86C1-A9E34874B7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6A5509-2F06-4DA9-86C1-A9E34874B7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35532530-8AD5-45EC-AF50-2137C44BF1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35532530-8AD5-45EC-AF50-2137C44BF1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35532530-8AD5-45EC-AF50-2137C44BF1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35532530-8AD5-45EC-AF50-2137C44BF1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0926C7C8-8444-4BBE-A1B2-4E8DBBDF052D}
+	EndGlobalSection
+EndGlobal
